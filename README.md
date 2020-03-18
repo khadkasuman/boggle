@@ -4,10 +4,11 @@ This Project is ruby on rails implementation of boggle game.
 
 ## Installation
 
-Install dependencies. Before installing dependencies make sure postgresql is installed in your system.
+Clone the repository and run the following command to run dependencies.
 ```
 bundle install
 ```
+
 ```bash
 rails server --port 4000
 ```
