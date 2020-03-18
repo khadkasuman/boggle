@@ -5,7 +5,8 @@ class BoggleControllerTest < ActionDispatch::IntegrationTest
   #   assert true
   # end
   test "should get random sequence of alphabets" do
-    get "boggle/generate"
+    get "/boggle/generate"
     assert !@response.sequence.nil?
+
   end
 end
