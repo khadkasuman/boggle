@@ -8,7 +8,7 @@ Clone the repository and run the following command to run dependencies.
 ```
 bundle install
 ```
-
+Run the server on port 4000 by entering following command.
 ```bash
 rails server --port 4000
 ```
