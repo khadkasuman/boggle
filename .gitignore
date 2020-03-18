@@ -20,6 +20,7 @@
 
 # Ignore uploaded files in development.
 /storage/*
+!/storage/words.txt
 !/storage/.keep
 .byebug_history
 
