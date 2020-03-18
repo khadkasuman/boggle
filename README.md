@@ -17,5 +17,5 @@ rails server --port 4000
 https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt
 
 ### Deployment
-This repository is deployed at https://boggle-suman.herokuapp.com. 
+This repository is deployed at https://boggle-suman.herokuapp.com/boggle/generate. 
 Note: The server idles every 30 minutes. So it might take a while on first run.
